@@ -1,6 +1,6 @@
 # Machine learning from scratch
 
-A collection of machine learnings algorithms implement from scratch.
+A collection of machine learning algorithms implemented from scratch.
 
 ## Resources
 
