@@ -6,3 +6,5 @@ A collection of machine learning algorithms implemented from scratch.
 
 - [The hundred-page machine learning book, by Andriy Burkov](https://themlbook.com/)
 - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+- [k-NN wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [K-means wikipedia](https://en.wikipedia.org/wiki/K-means_clustering)
